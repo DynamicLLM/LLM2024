@@ -6,8 +6,6 @@ https://github.com/e2b-dev/awesome-ai-agents/tree/main
 
 https://github.com/Doriandarko/claude-engineer
 
-vector_stock_market_bot  https://github.com/SingularityMan/vector_stock_market_bot/tree/main
-
 Math LLM  https://github.com/atroyn/math-llm/tree/main
 
 Math Coder https://github.com/mathllm/MathCoder 
@@ -15,8 +13,6 @@ Math Coder https://github.com/mathllm/MathCoder
 Awesome-LLM  https://github.com/Hannibal046/Awesome-LLM
 
 Awesome-Chinese-LLM  https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
-
-LLMs-in-Finance  https://github.com/hananedupouy/LLMs-in-Finance
 
 AI-in-Health, https://github.com/AI-in-Health
 
@@ -27,8 +23,6 @@ LLM-and-Law  https://github.com/Jeryi-Sun/LLM-and-Law
 LegalAgentBench  https://github.com/CSHaitao/LegalAgentBench
 
 LLM-Agent-Paper-List  https://github.com/WooooDyy/LLM-Agent-Paper-List
-
-Yahoo-Finance-llm-agent https://github.com/ojasskapre/yahoo-finance-llm-agent
 
 40 Agent Implementations https://github.com/NirDiamant/GenAI_Agents
 

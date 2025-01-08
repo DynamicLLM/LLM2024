@@ -8,4 +8,4 @@ Galileo FX, an innovative AI trading robot,  https://store.galileofx.com/
 
 FinMem-LLM-StockTrading  https://github.com/pipiku915/FinMem-LLM-StockTrading
 
-TradingAgents: Multi-Agents LLM Financial Trading Framework  https://tradingagents-ai.github.io/
+TradingAgents: Multi-Agents LLM Financial Trading Framework  https://tradingagents-ai.github.io/   https://arxiv.org/abs/2412.20138

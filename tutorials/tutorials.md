@@ -1,6 +1,9 @@
+
 **What is LLM agents?**   https://research.ibm.com/blog/what-are-ai-agents-llm
 
 **LLM**
+
+visualizations:   https://www.3blue1brown.com/
 
 https://github.com/rasbt/LLMs-from-scratch
 

@@ -3,9 +3,12 @@
 
 **LLM**
 
-visualizations:   https://www.3blue1brown.com/
+llm-course  https://github.com/mlabonne/llm-course
 
+visualizations:   https://www.3blue1brown.com/
+  
 https://github.com/rasbt/LLMs-from-scratch
+
 
 **LLM agent**
 

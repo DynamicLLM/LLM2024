@@ -26,3 +26,7 @@ https://medium.com/@rohanbalkondekar/understanding-llm-agents-a-guide-to-creatin
 **Artificial Intelligence: Foundations of Computational Agents**
 
 https://artint.info/
+
+**LLM Development Tools**
+
+FastAPI framework, high performance, easy to learn, fast to code, ready for production  https://github.com/fastapi/fastapi

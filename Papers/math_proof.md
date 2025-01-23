@@ -52,3 +52,5 @@ A New Frontier in AI  https://arxiv.org/pdf/2412.16075
 OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models   https://github.com/openreasoner/openr
 
 Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions  https://github.com/AIDC-AI/Marco-o1
+
+DeepSeek-R1  [https://github.com/deepseek-ai](https://github.com/deepseek-ai/DeepSeek-R1)

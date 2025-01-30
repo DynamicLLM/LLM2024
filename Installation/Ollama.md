@@ -2,7 +2,7 @@
 
 Windows: 
 
-1. Head to Ollama’s download pageLinks to an external site. to download the Ollama installation file.  Please refer the download pageLinks to an external site. for OS specific install instructions.  You can confirm the Ollama server status by hitting the local URL http://localhost:11434 
+1. Head to Ollama’s download pageLinks to an external site. to download the Ollama installation file. Ollama binds 127.0.0.1 port 11434 by default. Change the bind address with the OLLAMA_HOST environment variable: setx OLLAMA_HOST 0.0.0.0:11434, before Ollama starts.  You can confirm the Ollama server status by hitting the local URL http://localhost:11434 or  http://yourIP:11434 
 
 2. Open a windows terminal (command-prompt) and execute the following Ollama command:   ollama run llama3.1.  Now you can have interactive conversations with LLama3.1. 
 

@@ -17,6 +17,8 @@ Studies on q-difference equations date back to the early 20th century, with sign
 
 ## Preliminaries on q-Calculus and Lemmas
 
+$x+y=\int $
+
 For \( q \in (0,1) \), the q-analogue of the power function is defined as:
 
 $

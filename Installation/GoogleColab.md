@@ -4,7 +4,8 @@ Welcome to Colab   https://colab.research.google.com/, for using Google Colab wi
 
 How to make Google Colab access Github private repositories?  
 Go to colab main page colab.research.google.com.
-Go to GitHub tab.
-Check the checkbox with the label "include private repos".
+Go to GitHub tab.  Check the checkbox with the label "include private repos".
 Then colab will request access to your private GitHub data, you should provide it.
 After this you should see private repos in a list when you try to save a notebook in GitHub.
+
+How to invite a collaborator to view/edit private repository?  Under your repository name, click  Settings. In the "Access" section of the sidebar, click  Collaborators.  Click Add people.

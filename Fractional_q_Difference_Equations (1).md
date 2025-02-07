@@ -19,15 +19,15 @@ Studies on q-difference equations date back to the early 20th century, with sign
 
 For \( q \in (0,1) \), the q-analogue of the power function is defined as:
 
-\$
+$
 [a]_q = rac{1 - q^a}{1 - q}, \quad a \in \mathbb{R}.
-\$
+$
 
 The q-derivative of a function \( f \) is defined by:
 
-\$
+$
 (D_q f)(x) = rac{f(qx) - f(x)}{(q - 1)x}, \quad (D_q f)(0) = \lim_{x 	o 0} (D_q f)(x).
-\$
+$
 
 The q-integral of \( f \) over \( [0, b] \) is given by:
 

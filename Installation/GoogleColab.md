@@ -2,7 +2,7 @@ You can run Python program within Google Colab. **NO INSTALLATION** is needed. H
 
 Welcome to Colab   https://colab.research.google.com/, for using Google Colab with GitHubplease read this tutorial:  https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb
 
-#How to make Google Colab access Github private repositories#
+How to make Google Colab access Github private repositories?  
 Go to colab main page colab.research.google.com.
 Go to GitHub tab.
 Check the checkbox with the label "include private repos".

@@ -21,3 +21,5 @@ Deep Learning Systems  https://arxiv.org/pdf/2501.00829
 
 Large language models design sequence-defined macromolecules via evolutionary optimization   https://www.nature.com/articles/s41524-024-01449-6
 
+Hybrid genetic algorithms in agent-based artificial market model for simulating fan tokens trading   https://www.sciencedirect.com/science/article/pii/S0952197623018973
+

@@ -10,3 +10,9 @@ https://venturebeat.com/ai/deepmind-new-inference-time-scaling-technique-improve
 
 Evolution through Large Models
   https://strikingloo.github.io/wiki/evolution-through-large-models
+
+An LLM-Empowered Adaptive Evolutionary Algorithm For Multi-Component
+Deep Learning Systems  https://arxiv.org/pdf/2501.00829  
+
+Large language models design sequence-defined macromolecules via evolutionary optimization   https://www.nature.com/articles/s41524-024-01449-6
+

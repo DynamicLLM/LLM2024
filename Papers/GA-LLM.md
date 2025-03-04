@@ -5,3 +5,8 @@ Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Pr
 Integrating Genetic Algorithms and Language Models for Enhanced Enzyme Design  https://chemrxiv.org/engage/chemrxiv/article-details/65f0746b9138d23161510400   
 
 Large language models as surrogate models in evolutionary algorithms: A preliminary study   https://www.sciencedirect.com/science/article/abs/pii/S2210650224002797
+
+https://venturebeat.com/ai/deepmind-new-inference-time-scaling-technique-improves-planning-accuracy-in-llms/
+
+Evolution through Large Models
+  https://strikingloo.github.io/wiki/evolution-through-large-models

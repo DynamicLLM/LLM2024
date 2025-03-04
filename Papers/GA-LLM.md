@@ -23,3 +23,4 @@ Large language models design sequence-defined macromolecules via evolutionary op
 
 Hybrid genetic algorithms in agent-based artificial market model for simulating fan tokens trading   https://www.sciencedirect.com/science/article/pii/S0952197623018973
 
+Utilizing Genetic Algorithms in Conjunction with ANN-Based Stock Valuation Models to Enhance the Optimization of Stock Investment Decisions  https://www.mdpi.com/2673-2688/5/3/50

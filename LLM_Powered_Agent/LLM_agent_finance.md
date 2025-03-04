@@ -13,3 +13,5 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework  https://tradingagen
 FINCON: A Synthesized LLM Multi-Agent System
 with Conceptual Verbal Reinforcement for Enhanced
 Financial Decision Making   https://arxiv.org/pdf/2407.06567
+
+Utilizing Genetic Algorithms in Conjunction with ANN-Based Stock Valuation Models to Enhance the Optimization of Stock Investment Decisions  https://www.mdpi.com/2673-2688/5/3/50

@@ -13,6 +13,9 @@ https://venturebeat.com/ai/deepmind-new-inference-time-scaling-technique-improve
 Evolution through Large Models
   https://strikingloo.github.io/wiki/evolution-through-large-models
 
+Large language models for scientific discovery in molecular property prediction. Nat Mach Intell (2025). https://doi.org/10.1038/s42256-025-00994-z  https://mp.weixin.qq.com/s/wd3z6us7fqrCXM4dKzHJKg
+  
+
 An LLM-Empowered Adaptive Evolutionary Algorithm For Multi-Component
 Deep Learning Systems  https://arxiv.org/pdf/2501.00829  
 

@@ -1,6 +1,6 @@
 Mixing LLM and Genetic Algorithms : New Trends and Research Projects, https://nexyad.net/Automotive-Transportation/news/mixing-llm-and-genetic-algorithms-new-trends-and-research-projects/
 
-Evolutionary optimization of model merging recipes  https://www.nature.com/articles/s42256-024-00975-8
+Evolutionary optimization of model merging recipes  https://sakana.ai/evolutionary-model-merge/    https://www.nature.com/articles/s42256-024-00975-8   
 
 Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers  https://arxiv.org/abs/2309.08532
 

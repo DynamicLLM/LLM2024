@@ -7,3 +7,5 @@ Web Agents and LLMs: How AI Agents Navigate the Web and Process Information http
 https://ui.vision/rpa/docs/selenium-ide/form-filling
 
 https://catalog.skills.network/catalog_item/3938
+
+https://docs.llamaindex.ai/en/stable/llama_cloud/llama_parse/

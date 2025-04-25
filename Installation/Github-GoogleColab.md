@@ -1,8 +1,13 @@
 **Welcome to Colab**   https://colab.research.google.com/, for using Google Colab with GitHubplease read this tutorial:  https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb
 
-Anybody can open a copy of any github-hosted notebook within Colab. To make it easier to give people access to live views of GitHub-hosted notebooks, colab provides a shields.io-style badge, which appears as follows:
+**Saving Notebooks To GitHub or Drive**  If you would like to save your changes from within Colab, you can use the File menu to save the modified notebook either to Google Drive or back to GitHub. Choose File→Save a copy in Drive or File→Save a copy to GitHub and follow the resulting prompts. To save a Colab notebook to GitHub requires giving Colab permission to push the commit to your repository.
 
 ![image](https://github.com/user-attachments/assets/56ffd255-b097-4fd7-a10d-766110b83159)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
+Anybody can open a copy of any github-hosted notebook within Colab. To make it easier to give people access to live views of GitHub-hosted notebooks, colab provides a shields.io-style badge, which appears as follows:
+
+
 
 
 

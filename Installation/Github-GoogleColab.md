@@ -4,6 +4,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)  Anybody can open a copy of any github-hosted notebook within Colab. To make it easier to give people access to live views of GitHub-hosted notebooks.
 
+**Using Google Colab with GitHub**  https://github.com/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb
+
 
 **NO INSTALLATION** is needed. Here for example, to call LLM server in Colab [Installation/openai.ipynb](https://github.com/DynamicLLM/LLM2024/blob/main/Installation/openai.ipynb), you can simply click the icon "Open in Colab"
 

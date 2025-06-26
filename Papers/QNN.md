@@ -5,3 +5,5 @@ Training deep quantum neural networks.  https://github.com/qigitphannover/DeepQu
 
 
 https://iopscience.iop.org/article/10.1088/1402-4896/ad36ef/meta
+
+https://qml-tutorial.github.io/

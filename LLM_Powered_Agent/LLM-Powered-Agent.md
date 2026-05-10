@@ -29,3 +29,5 @@ LLM-Agent-Paper-List  https://github.com/WooooDyy/LLM-Agent-Paper-List
 Python Agent Tools for Graphlit Platform  https://github.com/graphlit/graphlit-tools-python
 
 Using AI-assisted coding:  https://x.com/AndrewYNg/status/1877405010893619238
+
+nfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing  https://github.com/MeiGen-AI/InfiniteTalk

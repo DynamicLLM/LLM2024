@@ -16,4 +16,11 @@ https://github.com/samuraigpt/ai-youtube-shorts-generator
 
 https://github.com/mutonby/openshorts
 
+https://github.com/ace-step/ACE-Step-1.5
+
+https://github.com/gabotechs/MusicGPT
+
+https://github.com/ace-step/ACE-Step
+
+
 

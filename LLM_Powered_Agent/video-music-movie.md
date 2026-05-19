@@ -24,5 +24,8 @@ https://github.com/ace-step/ACE-Step
 
 https://vheer.com/
 
+https://github.com/AIDC-AI/Pixelle-Video
+
+
 
 

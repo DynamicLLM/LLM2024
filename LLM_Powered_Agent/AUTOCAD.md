@@ -1,5 +1,9 @@
 https://nx.dev/
 
+https://github.com/cadquery/cadquery
+
+https://cadquery.readthedocs.io/en/latest/installation.html
+
 https://metaharness.tools/
 
 https://github.com/DreamEnding/NX_MCP
@@ -9,7 +13,6 @@ https://community.sw.siemens.com/s/question/0D5Vb000015aUayKAE/the-new-ai-fronti
 https://inteliscience.net/siemens-nx-ai-chatbot/
 
 https://github.com/nrwl/nx-ai-agents-config
-
 
 https://github.com/andrewbartels1/SolidworksMCP-python
 

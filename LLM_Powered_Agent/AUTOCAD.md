@@ -10,6 +10,9 @@ https://community.sw.siemens.com/s/question/0D5Vb000015aUayKAE/the-new-ai-fronti
 
 https://inteliscience.net/siemens-nx-ai-chatbot/
 
+https://github.com/nrwl/nx-ai-agents-config
+
+
 https://github.com/andrewbartels1/SolidworksMCP-python
 
 https://github.com/eyfel/mcp-server-solidworks
